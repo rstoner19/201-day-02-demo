@@ -50,8 +50,24 @@
           alert("Wow, "+userName+ "! You answered all three questions correctly.  I don't know if I should be impressed or creeped out. :-) ");
         }
         else{
-          alert("Yeah, I don't have that easy of a commute " + userName);
+          alert("You're right. I don't have that easy of a commute " + userName);
         };
+      };
+
+
+      var userAnswer4 = prompt("How old am I?");
+      console.log(userAnswer4);
+      if(userAnswer4 >= 0 && userAnswer4 < 30){
+        alert("I'm older than that.");
+      }
+      else if(userAnswer4 == 30){
+        alert("You're right, I'm " + userAnswer4 + " years old.");
+      }
+      else if (userAnswer4 > 30){
+        alert("I know I'm going gray, but I'm not that old");
+      }
+      else {
+        alert("Sorry, that answer didn't make sense.");
       };
 
     </script>
