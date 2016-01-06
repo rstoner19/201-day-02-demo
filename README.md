@@ -1,4 +1,9 @@
 # 201-day-02-demo
-Class demo, 1/5
+Guess game
 
-This is a .md file which is written and displays markdown (text to read)
+This uses app.js to ask the user a few yes or no questions, allowing for a few various inputs.
+
+The branch wednesday was used to add a guessing game for the correct number the loops till answered correctly.
+
+Author: Rick Stoner
+contact: email@email.com
