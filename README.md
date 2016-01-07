@@ -10,3 +10,11 @@ The branch wednesday was used to add a guessing game for the correct number the 
 
 Author: Rick Stoner
 contact: email@email.com
+-----------------------------------
+Edited by kyle thursday january 7.
+  put questions into functions
+  converted alert boxes to text on page
+  printed questions and answer to text on page
+  git hub repository
+  https://github.com/rstoner19/201-day-02-demo.git
+-----------------------------------
