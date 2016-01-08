@@ -1,0 +1,13 @@
+.right {
+  color: green;
+  font-style: italic;
+  font-size: 40px;
+
+}
+.wrong {
+color: red;
+font-weight: bolder;
+border-style:double;
+font-size: 80px;
+
+}

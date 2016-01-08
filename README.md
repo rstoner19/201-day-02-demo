@@ -18,3 +18,7 @@ Edited by kyle thursday january 7.
   git hub repository
   https://github.com/rstoner19/201-day-02-demo.git
 -----------------------------------
+Edited by lisa friday january 8.
+  added css;
+  added function arrays to js;
+  https://github.com/rstoner19/201-day-02-demo.git
